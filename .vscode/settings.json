@@ -3,5 +3,6 @@
         ".",
         "FileWriter_Y_FileReader"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.format.settings.url": ".vscode/java-formatter.xml"
 }
