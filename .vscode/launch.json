@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExampleExit",
+            "request": "launch",
+            "mainClass": "ExampleExit",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        },
+        {
+            "type": "java",
+            "name": "LeerArchivo",
+            "request": "launch",
+            "mainClass": "LeerArchivo",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        },
+        {
+            "type": "java",
+            "name": "Llamador",
+            "request": "launch",
+            "mainClass": "Llamador",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        },
+        {
+            "type": "java",
+            "name": "Principal2",
+            "request": "launch",
+            "mainClass": "Principal2",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        },
+        {
+            "type": "java",
+            "name": "PrincipalExampleExit",
+            "request": "launch",
+            "mainClass": "PrincipalExampleExit",
+            "projectName": "ServiciosYProcesos_d8dccdbc"
+        }
+    ]
+}
